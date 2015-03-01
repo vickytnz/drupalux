@@ -9,45 +9,45 @@
 
 
 - [ ] **2.  FORM VALIDATION**
-  - LOOK AT rosenfeldmedia.com/books/web-form-design/
-  - USE https://www.drupal.org/project/ife , https://www.drupal.org/project/clientside_validation (with caution), email, date etc (+ https://www.drupal.org/project/entity_form or https://www.drupal.org/project/Webform )
+  - LOOK AT www.rosenfeldmedia.com/books/web-form-design/
+  - USE https://www.drupal.org/project/ife , https://www.drupal.org/project/clientside_validation (with caution), email, date etc (+ https://www.drupal.org/project/entity_form or https://www.drupal.org/project/webform )
   - TRY: https://www.drupal.org/project/tipsy, https://www.drupal.org/project/stringoverrides , https://www.drupal.org/project/beauty_tips
 
 
 - [ ] **3.  ERROR MESSAGES**
   - LOOK AT www.voiceandtone.com 
   - USE disable_messages (with caution!)
-  TRY: stringoverrides, customerror (pay attention to your 404s!), logintoboggan, styleguide, pathauto
+  TRY: https://www.drupal.org/project/stringoverrides, https://www.drupal.org/project/customerror (pay attention to your 404s!), https://www.drupal.org/project/logintoboggan, https://www.drupal.org/project/styleguide, https://www.drupal.org/project/pathauto
 
 
 - [ ] **4.  SOCIAL INFORMATION**
   - LOOK AT twitterm and FB validators
-  - USE Drupal SEO Essentials, Metatag
+  - USE https://www.drupal.org/project/seo, https://www.drupal.org/project/metatag
  
 - [ ] **5.  COMMENTS**
-  - USE Settings to remove title + amend theme: or Disqus/Livefyre: Mollum is good, honeypot
+  - USE Settings to remove title + amend theme: or Disqus/Livefyre (e.g. https://www.drupal.org/project/disqus ): https://www.drupal.org/project/mollum is good, https://www.drupal.org/project/honeypot
 
  
 - [ ] **6.  MENUS & NAVIGATION**
   - LOOK AT www.patterntap.com
-  - USE taxonomy_menu/menu_block/menu_trail_by_path/pathauto. And sitemap!
+  - USE taxonomy_menu/menu_block/menu_trail_by_path/pathauto. And https://www.drupal.org/project/site_map!
   - TRY superfish, up_to_top
  
 - [ ] **7.  EMAIL MESSAGING**
   - LOOK AT www.reallygoodemails.com
-  - USE mimemail + mailsystem, HTML email, info in system emails, sender.
+  - USE https://www.drupal.org/project/mimemail + https://www.drupal.org/project/mailsystem, https://www.drupal.org/project/htmlmail, info in system emails, sender.
   - TRY Mailchimp , sendgrid
 
  
 - [ ] **8.  SORTING & FILTERING**
   - LOOK AT www.patterntap.com
-  - USE better_exposed_filters (and views)
+  - USE https://www.drupal.org/project/better_exposed_filters (and views)
  
 - [ ] **9.  USER PROFILE**
-  - USE Profile2, Views, Logintoboggan/Login Destination
+  - USE https://www.drupal.org/project/profile2, Views, Logintoboggan/ https://www.drupal.org/project/login_destination
  
 - [ ] **10. READABILITY**
-- USE WSYWIG with style, glossary, tipsy
+- USE WSYWIG with style, https://www.drupal.org/project/glossary, https://www.drupal.org/project/tipsy , https://www.drupal.org/project/beautytips
 
 
 ![TARDIS](https://cloud.githubusercontent.com/assets/1223264/6429046/8fca9440-bfb2-11e4-80ff-6ecaa7947730.gif)
