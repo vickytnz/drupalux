@@ -15,13 +15,10 @@
  
 - [ ] **6.  MENUS & NAVIGATION**
  
-- [ ] **7.  EMAIL MESSAGING  **
+- [ ] **7.  EMAIL MESSAGING**
  
-- [ ] **8.  SORTING & FILTERING **
+- [ ] **8.  SORTING & FILTERING**
  
-- [ ] **9.  USER PROFILE  **
+- [ ] **9.  USER PROFILE**
  
 - [ ] **10. READABILITY**
-test 
-   -  more testing 
-- [x]  test
