@@ -2,12 +2,16 @@
 
  
 - [ ] **1.  LOGIN/REGISTRATION**
-  - Look at http://useronboard.com
-  - Use https://www.drupal.org/project/logintoboggan
-  - Try
+  - LOOK AT http://useronboard.com
+  - USE https://www.drupal.org/project/logintoboggan
+  - TRY https://www.drupal.org/project/email_registration , https://www.drupal.org/project/remember_me , https://www.drupal.org/project/hybridauth
+
 
 
 - [ ] **2.  FORM VALIDATION**
+  - LOOK AT rosenfeldmedia.com/books/web-form-design/
+  - USE https://www.drupal.org/project/ife , https://www.drupal.org/project/clientside_validation (with caution), email, date etc (+ https://www.drupal.org/project/entity_form or https://www.drupal.org/project/Webform )
+  - TRY: https://www.drupal.org/project/tipsy, https://www.drupal.org/project/stringoverrides , https://www.drupal.org/project/beauty_tips
 
 
 - [ ] **3.  ERROR MESSAGES**
