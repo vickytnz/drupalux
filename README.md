@@ -15,9 +15,9 @@
 
 
 - [ ] **3.  ERROR MESSAGES**
-- LOOK AT voiceandtone.com 
-- USE disable_messages (with caution!)
-TRY: stringoverrides, customerror (pay attention to your 404s!), logintoboggan, styleguide, pathauto
+  - LOOK AT www.voiceandtone.com 
+  - USE disable_messages (with caution!)
+  TRY: stringoverrides, customerror (pay attention to your 404s!), logintoboggan, styleguide, pathauto
 
 
 - [ ] **4.  SOCIAL INFORMATION**
@@ -29,18 +29,18 @@ TRY: stringoverrides, customerror (pay attention to your 404s!), logintoboggan, 
 
  
 - [ ] **6.  MENUS & NAVIGATION**
-  - LOOK AT patterntap.com
+  - LOOK AT www.patterntap.com
   - USE taxonomy_menu/menu_block/menu_trail_by_path/pathauto. And sitemap!
   - TRY superfish, up_to_top
  
 - [ ] **7.  EMAIL MESSAGING**
-  - LOOK AT reallygoodemails.com
+  - LOOK AT www.reallygoodemails.com
   - USE mimemail + mailsystem, HTML email, info in system emails, sender.
   - TRY Mailchimp , sendgrid
 
  
 - [ ] **8.  SORTING & FILTERING**
-  - LOOK AT patterntap.com
+  - LOOK AT www.patterntap.com
   - USE better_exposed_filters (and views)
  
 - [ ] **9.  USER PROFILE**
