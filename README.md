@@ -49,7 +49,39 @@
 - [ ] **10. READABILITY**
 - USE WSYWIG with style, https://www.drupal.org/project/glossary, https://www.drupal.org/project/tipsy , https://www.drupal.org/project/beautytips
 
+# Honorable mentions
 
+- [ ] Block titles: https://www.drupal.org/project/block_title
+- [ ] Search: https://www.drupal.org/project/search_api + https://www.drupal.org/project/facet_api (though needs solr)
+- [ ] Making pages for print: https://www.drupal.org/project/print
+- [ ] Connecting things with each other: https://www.drupal.org/project/entity_reference
+- [ ] Form actions:  https://www.drupal.org/project/workflow / https://www.drupal.org/project/workbench
+- [ ] Performance: https://www.drupal.org/project/memcache / https://www.drupal.org/project/varnish
+
+# Wider UX considerations
+
+- Usability testing
+  - www.techsmith.com/morae.html
+  - www.silverbackapp.com
+  - www.airsquirrels.com/reflector/
+  - www.whatusersdo.com
+  - www.usertesting.com
+  - www.gotomeeting.com
+- Device testing
+  - http://www.browserstack.com/
+- Setting the foundation
+  - www.axure.com
+  - www.omnigroup.com/omnigraffle
+- Optimising and A/B testing
+  - www.vwo.com
+  - http://www.optimalworkshop.com/
+  - www.google.com/analytics
+  - www.cooper.com/prototyping-tools
+  - www.optimizely.com
+  - www.clicktale.com/
+  - www.acquia.com/products-services/website-personalization
+  - www.amazon.com/Designing-Obama-Scott-Thomas
+ 
 ##BONUS: GIFS!
 
 ![TARDIS](https://cloud.githubusercontent.com/assets/1223264/6429046/8fca9440-bfb2-11e4-80ff-6ecaa7947730.gif)
