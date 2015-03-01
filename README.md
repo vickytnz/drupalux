@@ -30,8 +30,8 @@
  
 - [ ] **6.  MENUS & NAVIGATION**
   - LOOK AT www.patterntap.com
-  - USE taxonomy_menu/menu_block/menu_trail_by_path/pathauto. And https://www.drupal.org/project/site_map!
-  - TRY superfish, up_to_top
+  - USE https://www.drupal.org/project/taxonomy_menu / https://www.drupal.org/project/menu_block / https://www.drupal.org/project/menu_trail_by_path / https://www.drupal.org/project/pathauto . And https://www.drupal.org/project/site_map!
+  - TRY https://www.drupal.org/project/superfish, https://www.drupal.org/project/up_to_top
  
 - [ ] **7.  EMAIL MESSAGING**
   - LOOK AT www.reallygoodemails.com
