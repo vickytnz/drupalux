@@ -40,6 +40,7 @@
  
 - [ ] **9.  USER PROFILE**
 
+![user](https://cloud.githubusercontent.com/assets/1223264/6429075/46c3ad2a-bfb4-11e4-8c3b-c902fe4b18fe.gif)
 
  
 - [ ] **10. READABILITY**
