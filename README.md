@@ -15,32 +15,41 @@
 
 
 - [ ] **3.  ERROR MESSAGES**
+- LOOK AT voiceandtone.com 
+- USE disable_messages (with caution!)
+TRY: stringoverrides, customerror (pay attention to your 404s!), logintoboggan, styleguide, pathauto
+
 
 - [ ] **4.  SOCIAL INFORMATION**
-
-
+  - LOOK AT twitterm and FB validators
+  - USE Drupal SEO Essentials, Metatag
  
 - [ ] **5.  COMMENTS**
-
+  - USE Settings to remove title + amend theme: or Disqus/Livefyre: Mollum is good, honeypot
 
  
 - [ ] **6.  MENUS & NAVIGATION**
-
-
+  - LOOK AT patterntap.com
+  - USE taxonomy_menu/menu_block/menu_trail_by_path/pathauto. And sitemap!
+  - TRY superfish, up_to_top
  
 - [ ] **7.  EMAIL MESSAGING**
-
+  - LOOK AT reallygoodemails.com
+  - USE mimemail + mailsystem, HTML email, info in system emails, sender.
+  - TRY Mailchimp , sendgrid
 
  
 - [ ] **8.  SORTING & FILTERING**
-
+  - LOOK AT patterntap.com
+  - USE better_exposed_filters (and views)
  
 - [ ] **9.  USER PROFILE**
-
-
+  - USE Profile2, Views, Logintoboggan/Login Destination
  
 - [ ] **10. READABILITY**
-- 
+- USE WSYWIG with style, glossary, tipsy
+
+
 ![TARDIS](https://cloud.githubusercontent.com/assets/1223264/6429046/8fca9440-bfb2-11e4-80ff-6ecaa7947730.gif)
 
 ![buttle tuttle](https://cloud.githubusercontent.com/assets/1223264/6429040/8fb7471e-bfb2-11e4-8da1-f60c880b0be7.gif) 
