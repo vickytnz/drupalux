@@ -16,7 +16,7 @@
 
 - [ ] **3.  ERROR MESSAGES**
   - LOOK AT www.voiceandtone.com 
-  - USE disable_messages (with caution!)
+  - USE https://www.drupal.org/project/disable_messages (with caution!)
   TRY: https://www.drupal.org/project/stringoverrides, https://www.drupal.org/project/customerror (pay attention to your 404s!), https://www.drupal.org/project/logintoboggan, https://www.drupal.org/project/styleguide, https://www.drupal.org/project/pathauto
 
 
@@ -49,6 +49,8 @@
 - [ ] **10. READABILITY**
 - USE WSYWIG with style, https://www.drupal.org/project/glossary, https://www.drupal.org/project/tipsy , https://www.drupal.org/project/beautytips
 
+
+##BONUS: GIFS!
 
 ![TARDIS](https://cloud.githubusercontent.com/assets/1223264/6429046/8fca9440-bfb2-11e4-80ff-6ecaa7947730.gif)
 
