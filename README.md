@@ -25,7 +25,7 @@
   - USE https://www.drupal.org/project/seo, https://www.drupal.org/project/metatag
  
 - [ ] **5.  COMMENTS**
-  - USE Settings to remove title + amend theme: or Disqus/Livefyre (e.g. https://www.drupal.org/project/disqus ): https://www.drupal.org/project/mollum is good, https://www.drupal.org/project/honeypot
+  - USE Settings to remove title + amend theme: or Disqus/Livefyre (e.g. https://www.drupal.org/project/disqus ): https://www.drupal.org/project/mollom is good, https://www.drupal.org/project/honeypot
 
  
 - [ ] **6.  MENUS & NAVIGATION**
